@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Test</folder>
+	<filename>images (44).jpeg</filename>
+	<path>/home/elavazhagan/Downloads/Test/images (44).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>103</ymin>
+			<xmax>159</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
